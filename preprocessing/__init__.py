@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 # Written by Ho Heon Kim.  hoheon0509@gmail.com 
-# Co-worker: Sierra Lee. justforher12344@gmail.com
+# Co-worker: Juyeon Lee. justforher12344@gmail.com
 
 from ._parsing import Parser, ParentEventParser
 from ._mapping import VersionMapper, DragMapper
